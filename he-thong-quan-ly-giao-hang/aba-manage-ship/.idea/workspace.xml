@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41ab0546-f2ec-4408-afe0-a1d1251ce0e5" name="Default Changelist" comment="cập nhật permission.py, cập nhật put user" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wDr59pnuZPUJypZT8w4ZvzDxyk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip" />
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip\abaShip\static\js\user_stat" />
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip\abaShip\templates\admin" />
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip\abaShip\static" />
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip\abaShip\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip\abaShip" />
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip" />
+      <recent name="E:\du-lieu-o-E\monhoc\cac-cong-nghe-hien-dai\he-thong-quan-ly-giao-hang\aba-manage-ship\abaManageShip\abaShip\static\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.momo">
+    <configuration name="charts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aba-manage-ship/statistic/charts.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aba-manage-ship/statistic/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="RSA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aba-manage-ship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abaManageShip/abaShip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abaManageShip/abaShip/RSA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="aba-manage-ship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="momo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aba-manage-ship" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abaManageShip/abaShip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abaManageShip/abaShip/momo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.momo" />
+        <item itemvalue="Python.RSA" />
+        <item itemvalue="Python.RSA" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.charts.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ab0546-f2ec-4408-afe0-a1d1251ce0e5" name="Default Changelist" comment="" />
+      <created>1628003814749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628003814749</updated>
+      <workItem from="1628003861114" duration="522000" />
+      <workItem from="1628004404740" duration="767000" />
+      <workItem from="1628043960722" duration="4632000" />
+      <workItem from="1628083442470" duration="7250000" />
+      <workItem from="1628128486616" duration="6996000" />
+      <workItem from="1628170490604" duration="5262000" />
+      <workItem from="1628428711244" duration="12654000" />
+      <workItem from="1628476706630" duration="4317000" />
+      <workItem from="1628497435782" duration="392000" />
+      <workItem from="1628516999613" duration="3021000" />
+      <workItem from="1628559723695" duration="698000" />
+      <workItem from="1628578519928" duration="1000000" />
+      <workItem from="1628599890331" duration="8531000" />
+      <workItem from="1628648534861" duration="5581000" />
+      <workItem from="1628679759340" duration="400000" />
+      <workItem from="1628734849059" duration="5085000" />
+      <workItem from="1628755217070" duration="2323000" />
+      <workItem from="1628772209233" duration="7371000" />
+      <workItem from="1628838519940" duration="3693000" />
+      <workItem from="1628910299699" duration="3694000" />
+      <workItem from="1628946016713" duration="2844000" />
+      <workItem from="1629010904415" duration="5516000" />
+      <workItem from="1629078932147" duration="4053000" />
+      <workItem from="1629101985014" duration="1094000" />
+      <workItem from="1629115816326" duration="12255000" />
+      <workItem from="1629165305845" duration="904000" />
+      <workItem from="1629166289415" duration="2844000" />
+      <workItem from="1629202801406" duration="5470000" />
+      <workItem from="1629254449532" duration="4908000" />
+      <workItem from="1629274853790" duration="1285000" />
+      <workItem from="1629339328478" duration="5178000" />
+      <workItem from="1629378898168" duration="8432000" />
+      <workItem from="1629426246967" duration="2761000" />
+      <workItem from="1629517599618" duration="1643000" />
+      <workItem from="1629549411747" duration="596000" />
+      <workItem from="1629601114801" duration="1189000" />
+      <workItem from="1629681885567" duration="11062000" />
+      <workItem from="1629775817988" duration="9560000" />
+      <workItem from="1629807279316" duration="4897000" />
+      <workItem from="1629815842826" duration="3621000" />
+      <workItem from="1629854134186" duration="5107000" />
+      <workItem from="1629897432461" duration="15377000" />
+      <workItem from="1629941376626" duration="15803000" />
+      <workItem from="1630030035260" duration="17435000" />
+      <workItem from="1630123513325" duration="4651000" />
+      <workItem from="1630290696050" duration="8764000" />
+      <workItem from="1630381840777" duration="7317000" />
+      <workItem from="1630500266578" duration="3045000" />
+      <workItem from="1631024438309" duration="4853000" />
+      <workItem from="1631065594459" duration="14201000" />
+      <workItem from="1631116733206" duration="70000" />
+      <workItem from="1631153259397" duration="20154000" />
+      <workItem from="1631257150177" duration="2591000" />
+      <workItem from="1631263391469" duration="11539000" />
+      <workItem from="1631538701151" duration="4325000" />
+      <workItem from="1631624492702" duration="8306000" />
+      <workItem from="1631689543831" duration="8475000" />
+      <workItem from="1631759634363" duration="14633000" />
+      <workItem from="1631797135475" duration="11739000" />
+      <workItem from="1631864643112" duration="24711000" />
+      <workItem from="1631929113131" duration="29854000" />
+      <workItem from="1632017066910" duration="23039000" />
+      <workItem from="1632080431700" duration="97000" />
+      <workItem from="1632103622814" duration="581000" />
+      <workItem from="1632192453742" duration="24453000" />
+      <workItem from="1632298533867" duration="3546000" />
+      <workItem from="1632359303775" duration="629000" />
+      <workItem from="1632361497764" duration="4405000" />
+      <workItem from="1632406516513" duration="1611000" />
+      <workItem from="1632448954436" duration="14468000" />
+      <workItem from="1632647723826" duration="10150000" />
+      <workItem from="1632723642955" duration="5743000" />
+      <workItem from="1632758819502" duration="1219000" />
+      <workItem from="1632796155628" duration="4343000" />
+      <workItem from="1632907088837" duration="10450000" />
+      <workItem from="1632937060398" duration="1011000" />
+      <workItem from="1633076577957" duration="612000" />
+      <workItem from="1633082420313" duration="594000" />
+      <workItem from="1633157276642" duration="12623000" />
+      <workItem from="1633184995457" duration="7952000" />
+      <workItem from="1633228296740" duration="6570000" />
+      <workItem from="1633235632035" duration="929000" />
+      <workItem from="1633269742310" duration="1355000" />
+      <workItem from="1633276356694" duration="5453000" />
+      <workItem from="1633360329602" duration="4908000" />
+      <workItem from="1633398879536" duration="26967000" />
+      <workItem from="1633487094694" duration="925000" />
+      <workItem from="1633506355312" duration="15347000" />
+      <workItem from="1633576604766" duration="8947000" />
+      <workItem from="1633696035955" duration="935000" />
+      <workItem from="1633785355953" duration="1837000" />
+      <workItem from="1634116619267" duration="627000" />
+      <workItem from="1634131398587" duration="1311000" />
+      <workItem from="1634175609356" duration="4294000" />
+      <workItem from="1634258945570" duration="2473000" />
+      <workItem from="1634304235827" duration="592000" />
+      <workItem from="1634351153092" duration="13574000" />
+      <workItem from="1634528075650" duration="3557000" />
+      <workItem from="1634607962363" duration="1194000" />
+      <workItem from="1634648448061" duration="1924000" />
+      <workItem from="1634693624324" duration="11857000" />
+      <workItem from="1634866548427" duration="4660000" />
+      <workItem from="1635125789325" duration="9072000" />
+      <workItem from="1635183284905" duration="1424000" />
+      <workItem from="1635268623916" duration="171000" />
+      <workItem from="1635269574511" duration="3868000" />
+      <workItem from="1635351263449" duration="6541000" />
+      <workItem from="1635426549568" duration="5137000" />
+      <workItem from="1635512619895" duration="592000" />
+      <workItem from="1635623365844" duration="7625000" />
+      <workItem from="1636095686083" duration="3401000" />
+      <workItem from="1636366262334" duration="3489000" />
+      <workItem from="1636366678554" duration="30000" />
+      <workItem from="1639747607052" duration="2885000" />
+      <workItem from="1640010067650" duration="14504000" />
+      <workItem from="1640063075452" duration="2429000" />
+      <workItem from="1640437806951" duration="284000" />
+      <workItem from="1645272708166" duration="9736000" />
+      <workItem from="1645360352640" duration="895000" />
+    </task>
+    <task id="LOCAL-00008" summary="cập nhật csdl">
+      <created>1629813895300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629813895300</updated>
+    </task>
+    <task id="LOCAL-00009" summary="api user">
+      <created>1629944082051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629944082051</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cập nhật db">
+      <created>1630037433704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630037433704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="thêm api stock, sữa api post">
+      <created>1630137301775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630137301775</updated>
+    </task>
+    <task id="LOCAL-00012" summary="cap nhat csdl them notification, ..">
+      <created>1630291513631</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630291513631</updated>
+    </task>
+    <task id="LOCAL-00013" summary="thheem api stock">
+      <created>1630326736602</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1630326736602</updated>
+    </task>
+    <task id="LOCAL-00014" summary="logout">
+      <created>1630424204762</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1630424204762</updated>
+    </task>
+    <task id="LOCAL-00015" summary="cập nhật stock">
+      <created>1630428606677</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1630428606677</updated>
+    </task>
+    <task id="LOCAL-00016" summary="cập nhật lấy post theo user">
+      <created>1631088137325</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1631088137326</updated>
+    </task>
+    <task id="LOCAL-00017" summary="tách các view cho gọn. chưa sữa image, chưa thêm api post cho shipper">
+      <created>1631116791073</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1631116791073</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cập nhật permission.py, cập nhật put user">
+      <created>1631202108663</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1631202108670</updated>
+    </task>
+    <task id="LOCAL-00019" summary="sữa lỗi sai tên app trong peermission ,">
+      <created>1631281498359</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1631281498359</updated>
+    </task>
+    <task id="LOCAL-00020" summary="hình như ko có gì thay đổi á o">
+      <created>1631542412443</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1631542412444</updated>
+    </task>
+    <task id="LOCAL-00021" summary="cập nhật api list post cho customer và shipper, cập nhật csdl chức năng auction.">
+      <created>1631786772700</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1631786772700</updated>
+    </task>
+    <task id="LOCAL-00022" summary="cập nhật api list post cho customer và shipper, cập nhật csdl chức năng auction.">
+      <created>1631786922687</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1631786922687</updated>
+    </task>
+    <task id="LOCAL-00023" summary="thêm api lấy danh sách shipper">
+      <created>1631869552862</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1631869552862</updated>
+    </task>
+    <task id="LOCAL-00024" summary="thêm thuộc tính group">
+      <created>1631882423314</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1631882423314</updated>
+    </task>
+    <task id="LOCAL-00025" summary="thêm mấy cái của shipper">
+      <created>1631884060455</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631884060455</updated>
+    </task>
+    <task id="LOCAL-00026" summary="thêm mấy cái của shipper, tạo bảng rate">
+      <created>1631884718917</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1631884718917</updated>
+    </task>
+    <task id="LOCAL-00027" summary="thêm mấy id trong sẻializer của shipper, tạo bảng rate">
+      <created>1631885253200</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1631885253200</updated>
+    </task>
+    <task id="LOCAL-00028" summary="sữa từ viết hoa của gender">
+      <created>1631886710364</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1631886710364</updated>
+    </task>
+    <task id="LOCAL-00029" summary="sữa từ viết hoa của gender">
+      <created>1631887283822</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1631887283822</updated>
+    </task>
+    <task id="LOCAL-00030" summary="sữa từ viết hoa của gender">
+      <created>1631887290365</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1631887290365</updated>
+    </task>
+    <task id="LOCAL-00031" summary="sữa api cập nhật post và stock">
+      <created>1631889179937</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1631889179937</updated>
+    </task>
+    <task id="LOCAL-00032" summary="- Add field is_finish to post&#10;- Alter field gender on user&#10;- add_auction (nằm ở file postview á nha ô)">
+      <created>1631897123026</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1631897123026</updated>
+    </task>
+    <task id="LOCAL-00033" summary="get auctions">
+      <created>1631938012731</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1631938012731</updated>
+    </task>
+    <task id="LOCAL-00034" summary="cập nhật api list auction thêm api retrieve">
+      <created>1631963841925</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1631963841925</updated>
+    </task>
+    <task id="LOCAL-00035" summary="thay id shipper thành đối tượng shipper trong auction">
+      <created>1631972259044</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1631972259044</updated>
+    </task>
+    <task id="LOCAL-00036" summary="bổ sung các trường trong AuctionSerializer">
+      <created>1631972710008</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1631972710008</updated>
+    </task>
+    <task id="LOCAL-00037" summary="cập nhật shipper các trường trong AuctionSerializer">
+      <created>1631973992063</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1631973992063</updated>
+    </task>
+    <task id="LOCAL-00038" summary="-cập nhật update post&#10;- thêm api update auction&#10;- thêm api destroy  auction">
+      <created>1631978598579</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1631978598579</updated>
+    </task>
+    <task id="LOCAL-00039" summary="tạo ordership&#10;cập nhật thêm is_finish trong postview">
+      <created>1632080516819</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1632080516819</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix lỗi cập nhật ảnh trong postview">
+      <created>1632219204051</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1632219204051</updated>
+    </task>
+    <task id="LOCAL-00041" summary="cập nhật api update post (thay đổi stock)">
+      <created>1632235384867</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1632235384867</updated>
+    </task>
+    <task id="LOCAL-00042" summary="cập nhật api update post (thay đổi stock)">
+      <created>1632236120835</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1632236120835</updated>
+    </task>
+    <task id="LOCAL-00043" summary="thêm api hiện ds voucher,&#10;cập nhật api tạo orderview&#10;đang set api orderdetail">
+      <created>1632248653698</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1632248653698</updated>
+    </task>
+    <task id="LOCAL-00044" summary="thêm thông tin postcho  order">
+      <created>1632366728714</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1632366728714</updated>
+    </task>
+    <task id="LOCAL-00045" summary="- chỉnh sữa chức năng ko cho cập nhật post khi đã có auction&#10;- thêm url cho voucher">
+      <created>1632451054878</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1632451054878</updated>
+    </task>
+    <task id="LOCAL-00046" summary="cập nhật phân quyền cho voucher ai cũng xem  dc">
+      <created>1632483915509</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1632483915509</updated>
+    </task>
+    <task id="LOCAL-00047" summary="cập nhật csdl bỏ model OrderDetail. sữa api tạo order">
+      <created>1633418143403</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1633418143403</updated>
+    </task>
+    <task id="LOCAL-00048" summary="thêm chức năng cập nhật status của order cho shipper, và thêm chức năng xóa Post">
+      <created>1633445793234</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1633445793235</updated>
+    </task>
+    <task id="LOCAL-00049" summary="cập nhật chức năng rating(thêm, cập nhật, xóa, lấy danh sách theo id shipper">
+      <created>1633513238116</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1633513238116</updated>
+    </task>
+    <task id="LOCAL-00050" summary="sữa api cập nhật stock cho post">
+      <created>1633528419668</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1633528419669</updated>
+    </task>
+    <task id="LOCAL-00051" summary="thêm api rate trung bình /shipper/{id}/average-rate/">
+      <created>1633533177050</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1633533177050</updated>
+    </task>
+    <task id="LOCAL-00052" summary="cập nhật stock trong post">
+      <created>1633576908772</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1633576908773</updated>
+    </task>
+    <task id="LOCAL-00053" summary="tạo api check rate">
+      <created>1633596817117</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1633596817117</updated>
+    </task>
+    <task id="LOCAL-00054" summary="cập nhật trường content trong rate có thể null, cập nhật shipper và customer trong rate thành đối tượng">
+      <created>1633611533913</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1633611533913</updated>
+    </task>
+    <task id="LOCAL-00055" summary="bắt validate cho shipper của api check-rate">
+      <created>1633615041687</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1633615041687</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[payment]">
+      <created>1645361078329</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1645361078330</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sữa api cập nhật post và stock" />
+    <MESSAGE value="- Add field is_finish to post&#10;- Alter field gender on user&#10;- add_auction (nằm ở file postview á nha ô)" />
+    <MESSAGE value="get auctions" />
+    <MESSAGE value="cập nhật api list auction thêm api retrieve" />
+    <MESSAGE value="thay id shipper thành đối tượng shipper trong auction" />
+    <MESSAGE value="bổ sung các trường trong AuctionSerializer" />
+    <MESSAGE value="cập nhật shipper các trường trong AuctionSerializer" />
+    <MESSAGE value="-cập nhật update post&#10;- thêm api update auction&#10;- thêm api destroy  auction" />
+    <MESSAGE value="tạo ordership&#10;cập nhật thêm is_finish trong postview" />
+    <MESSAGE value="fix lỗi cập nhật ảnh trong postview" />
+    <MESSAGE value="cập nhật api update post (thay đổi stock)" />
+    <MESSAGE value="thêm api hiện ds voucher,&#10;cập nhật api tạo orderview&#10;đang set api orderdetail" />
+    <MESSAGE value="thêm thông tin postcho  order" />
+    <MESSAGE value="- chỉnh sữa chức năng ko cho cập nhật post khi đã có auction&#10;- thêm url cho voucher" />
+    <MESSAGE value="cập nhật phân quyền cho voucher ai cũng xem  dc" />
+    <MESSAGE value="cập nhật csdl bỏ model OrderDetail. sữa api tạo order" />
+    <MESSAGE value="thêm chức năng cập nhật status của order cho shipper, và thêm chức năng xóa Post" />
+    <MESSAGE value="cập nhật chức năng rating(thêm, cập nhật, xóa, lấy danh sách theo id shipper" />
+    <MESSAGE value="sữa api cập nhật stock cho post" />
+    <MESSAGE value="thêm api rate trung bình /shipper/{id}/average-rate/" />
+    <MESSAGE value="cập nhật stock trong post" />
+    <MESSAGE value="tạo api check rate" />
+    <MESSAGE value="cập nhật trường content trong rate có thể null, cập nhật shipper và customer trong rate thành đối tượng" />
+    <MESSAGE value="bắt validate cho shipper của api check-rate" />
+    <MESSAGE value="[payment]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[payment]" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aba_manage_ship$momo.coverage" NAME="momo Coverage Results" MODIFIED="1635698099237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/abaManageShip/abaShip" />
+    <SUITE FILE_PATH="coverage/aba_manage_ship$main.coverage" NAME="main Coverage Results" MODIFIED="1633168017135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aba_manage_ship$RSA.coverage" NAME="RSA Coverage Results" MODIFIED="1635697743463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/abaManageShip/abaShip" />
+  </component>
+</project>
